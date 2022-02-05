@@ -1,6 +1,6 @@
 // A quantidade vendida pode ser de 1 ou mais unidades
 
-import Product from '../src/model/product'
+import Product from '../src/model/Jest '
 import sell from '../src/service/sellProduct'
 
 test('Deve validar baixa de estoque da venda de uma unidade', () => {
